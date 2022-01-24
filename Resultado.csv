@@ -1,0 +1,322 @@
+Anio,Semestre,Clase,Ruta,Linea_Aerea,Precio
+2016,1,Business,DAL-AMA,American Airlines,58.0
+2016,1,Business,DAL-AMA,Avianca,132.0
+2016,1,Business,DAL-AMA,KLM,184.0
+2016,1,Business,DAL-ATL,Aeromexico,218.0
+2016,1,Business,DAL-ATL,American Airlines,102.0
+2016,1,Business,DAL-AUS,Aeromexico,250.0
+2016,1,Business,DAL-AUS,American Airlines,186.5
+2016,1,Business,DAL-AUS,KLM,258.0
+2016,1,Business,DAL-ELP,Avianca,173.0
+2016,1,Business,DAL-ELP,KLM,153.0
+2016,1,Business,DAL-GRR,Aeromexico,269.0
+2016,1,Business,DAL-GRR,American Airlines,221.0
+2016,1,Business,DAL-GRR,Avianca,149.0
+2016,1,Business,DAL-GRR,Southwest,266.0
+2016,1,Business,DAL-HOU,Aeromexico,76.0
+2016,1,Business,DAL-HOU,American Airlines,121.0
+2016,1,Business,DAL-HOU,Avianca,172.0
+2016,1,Business,DAL-HOU,KLM,62.0
+2016,1,Business,DAL-HOU,Southwest,71.0
+2016,1,Business,DAL-LGA,American Airlines,215.0
+2016,1,Business,DAL-LGA,Avianca,191.0
+2016,1,Business,DAL-LGA,Otra,146.0
+2016,1,Business,DAL-LGA,Southwest,97.0
+2016,1,Business,DAL-OKC,American Airlines,181.0
+2016,1,Business,DAL-OKC,Southwest,89.0
+2016,1,Business,DAL-PHX,Avianca,236.0
+2016,1,Business,DAL-PHX,Southwest,202.0
+2016,1,Business,DAL-SLC,Avianca,117.0
+2016,1,Business,DAL-SLC,KLM,75.0
+2016,1,Business,DAL-SLC,Otra,160.0
+2016,1,Business,DAL-SLC,Southwest,224.0
+2016,1,Business,DAL-TUL,KLM,182.0
+2016,1,Business,DAL-TUL,Southwest,265.0
+2016,1,Economy,DAL-AMA,Aeromexico,178.0
+2016,1,Economy,DAL-AMA,American Airlines,130.5
+2016,1,Economy,DAL-AMA,KLM,62.0
+2016,1,Economy,DAL-AMA,Southwest,66.0
+2016,1,Economy,DAL-AUS,Aeromexico,97.0
+2016,1,Economy,DAL-AUS,American Airlines,133.0
+2016,1,Economy,DAL-AUS,KLM,192.0
+2016,1,Economy,DAL-AUS,Otra,60.0
+2016,1,Economy,DAL-AUS,Southwest,95.0
+2016,1,Economy,DAL-ELP,Aeromexico,245.0
+2016,1,Economy,DAL-ELP,American Airlines,191.0
+2016,1,Economy,DAL-GRR,Aeromexico,253.0
+2016,1,Economy,DAL-GRR,American Airlines,75.5
+2016,1,Economy,DAL-GRR,Avianca,71.0
+2016,1,Economy,DAL-GRR,KLM,177.0
+2016,1,Economy,DAL-HOU,American Airlines,71.0
+2016,1,Economy,DAL-HOU,KLM,52.0
+2016,1,Economy,DAL-LGA,Aeromexico,207.0
+2016,1,Economy,DAL-LGA,American Airlines,140.0
+2016,1,Economy,DAL-LGA,Avianca,238.0
+2016,1,Economy,DAL-MDW,American Airlines,199.0
+2016,1,Economy,DAL-MDW,Avianca,79.0
+2016,1,Economy,DAL-MDW,KLM,73.0
+2016,1,Economy,DAL-MDW,Southwest,134.0
+2016,1,Economy,DAL-OKC,American Airlines,159.5
+2016,1,Economy,DAL-OKC,Avianca,235.0
+2016,1,Economy,DAL-OKC,Southwest,65.0
+2016,1,Economy,DAL-PHX,Aeromexico,118.0
+2016,1,Economy,DAL-PHX,American Airlines,261.0
+2016,1,Economy,DAL-PHX,Avianca,52.0
+2016,1,Economy,DAL-PHX,KLM,233.0
+2016,1,Economy,DAL-PHX,Southwest,201.0
+2016,1,Economy,DAL-SLC,Aeromexico,252.0
+2016,1,Economy,DAL-SLC,American Airlines,150.0
+2016,1,Economy,DAL-SLC,Avianca,180.5
+2016,1,Economy,DAL-SLC,KLM,258.0
+2016,1,Economy,DAL-SLC,Southwest,199.0
+2016,1,Economy,DAL-TUL,American Airlines,141.0
+2016,1,Economy,DAL-TUL,Avianca,225.0
+2016,1,Economy,DAL-TUL,Southwest,242.0
+2016,1,First Class,DAL-AMA,American Airlines,133.0
+2016,1,First Class,DAL-AMA,Avianca,108.0
+2016,1,First Class,DAL-ATL,Otra,265.0
+2016,1,First Class,DAL-AUS,Aeromexico,167.5
+2016,1,First Class,DAL-AUS,KLM,183.0
+2016,1,First Class,DAL-AUS,Southwest,207.0
+2016,1,First Class,DAL-ELP,American Airlines,195.0
+2016,1,First Class,DAL-GRR,KLM,135.0
+2016,1,First Class,DAL-LGA,Southwest,199.0
+2016,1,First Class,DAL-MDW,Aeromexico,148.0
+2016,1,First Class,DAL-MDW,American Airlines,165.0
+2016,1,First Class,DAL-MDW,Southwest,214.0
+2016,1,First Class,DAL-OKC,Aeromexico,190.0
+2016,1,First Class,DAL-OKC,American Airlines,269.0
+2016,1,First Class,DAL-OKC,KLM,144.0
+2016,1,First Class,DAL-OKC,Southwest,87.0
+2016,1,First Class,DAL-PHX,Avianca,217.0
+2016,1,First Class,DAL-SLC,Aeromexico,218.0
+2016,1,First Class,DAL-SLC,Avianca,195.0
+2016,1,First Class,DAL-SLC,KLM,214.0
+2016,1,First Class,DAL-SLC,Southwest,70.0
+2016,1,First Class,DAL-TUL,Aeromexico,104.0
+2016,1,First Class,DAL-TUL,KLM,204.0
+2016,1,First Class,DAL-TUL,Southwest,103.0
+2016,2,Business,DAL-AMA,American Airlines,186.0
+2016,2,Business,DAL-ATL,American Airlines,135.0
+2016,2,Business,DAL-ATL,Avianca,107.0
+2016,2,Business,DAL-ATL,KLM,227.0
+2016,2,Business,DAL-ATL,Southwest,185.0
+2016,2,Business,DAL-AUS,KLM,191.0
+2016,2,Business,DAL-ELP,Aeromexico,176.0
+2016,2,Business,DAL-ELP,American Airlines,114.0
+2016,2,Business,DAL-ELP,Avianca,212.0
+2016,2,Business,DAL-ELP,KLM,162.0
+2016,2,Business,DAL-GRR,American Airlines,180.0
+2016,2,Business,DAL-HOU,Aeromexico,127.5
+2016,2,Business,DAL-HOU,Avianca,99.0
+2016,2,Business,DAL-LGA,American Airlines,216.0
+2016,2,Business,DAL-LGA,Southwest,100.0
+2016,2,Business,DAL-MDW,Aeromexico,239.0
+2016,2,Business,DAL-MDW,American Airlines,77.0
+2016,2,Business,DAL-MDW,Southwest,171.0
+2016,2,Business,DAL-OKC,Aeromexico,142.0
+2016,2,Business,DAL-OKC,American Airlines,157.0
+2016,2,Business,DAL-OKC,Avianca,132.0
+2016,2,Business,DAL-OKC,Southwest,59.0
+2016,2,Business,DAL-PHX,Southwest,81.0
+2016,2,Business,DAL-SLC,KLM,209.0
+2016,2,Business,DAL-TUL,Aeromexico,162.5
+2016,2,Business,DAL-TUL,Avianca,251.0
+2016,2,Business,DAL-TUL,KLM,184.0
+2016,2,Business,DAL-TUL,Southwest,61.0
+2016,2,Economy,DAL-AMA,Otra,73.66666666666667
+2016,2,Economy,DAL-AUS,American Airlines,55.0
+2016,2,Economy,DAL-AUS,KLM,68.0
+2016,2,Economy,DAL-AUS,Otra,122.0
+2016,2,Economy,DAL-AUS,Southwest,199.5
+2016,2,Economy,DAL-ELP,American Airlines,158.0
+2016,2,Economy,DAL-GRR,Southwest,63.0
+2016,2,Economy,DAL-HOU,American Airlines,196.0
+2016,2,Economy,DAL-HOU,Avianca,181.0
+2016,2,Economy,DAL-HOU,KLM,177.0
+2016,2,Economy,DAL-LGA,Aeromexico,265.0
+2016,2,Economy,DAL-LGA,American Airlines,126.0
+2016,2,Economy,DAL-LGA,Southwest,199.0
+2016,2,Economy,DAL-MDW,Avianca,149.0
+2016,2,Economy,DAL-MDW,Southwest,80.0
+2016,2,Economy,DAL-OKC,Aeromexico,242.0
+2016,2,Economy,DAL-OKC,American Airlines,150.5
+2016,2,Economy,DAL-OKC,Southwest,100.0
+2016,2,Economy,DAL-PHX,American Airlines,132.0
+2016,2,Economy,DAL-PHX,Otra,152.0
+2016,2,Economy,DAL-SLC,Aeromexico,173.0
+2016,2,Economy,DAL-SLC,American Airlines,56.0
+2016,2,Economy,DAL-SLC,KLM,111.0
+2016,2,Economy,DAL-SLC,Southwest,147.0
+2016,2,Economy,DAL-TUL,Aeromexico,151.0
+2016,2,Economy,DAL-TUL,American Airlines,171.0
+2016,2,Economy,DAL-TUL,Southwest,176.0
+2016,2,First Class,DAL-AMA,Aeromexico,67.0
+2016,2,First Class,DAL-AMA,American Airlines,58.0
+2016,2,First Class,DAL-AMA,Avianca,203.0
+2016,2,First Class,DAL-AMA,Southwest,177.5
+2016,2,First Class,DAL-ATL,Avianca,115.5
+2016,2,First Class,DAL-ATL,KLM,81.0
+2016,2,First Class,DAL-AUS,American Airlines,108.0
+2016,2,First Class,DAL-AUS,Avianca,252.0
+2016,2,First Class,DAL-ELP,Southwest,71.0
+2016,2,First Class,DAL-HOU,Aeromexico,233.0
+2016,2,First Class,DAL-HOU,Avianca,71.0
+2016,2,First Class,DAL-HOU,Southwest,92.0
+2016,2,First Class,DAL-MDW,Aeromexico,125.0
+2016,2,First Class,DAL-MDW,KLM,118.0
+2016,2,First Class,DAL-MDW,Southwest,211.0
+2016,2,First Class,DAL-OKC,Southwest,153.0
+2016,2,First Class,DAL-SLC,Aeromexico,185.0
+2016,2,First Class,DAL-SLC,American Airlines,239.0
+2016,2,First Class,DAL-TUL,Aeromexico,214.0
+2016,2,First Class,DAL-TUL,Avianca,245.0
+2016,2,First Class,DAL-TUL,KLM,186.0
+2017,1,Business,DAL-AMA,Aeromexico,158.0
+2017,1,Business,DAL-AMA,Southwest,163.0
+2017,1,Business,DAL-ATL,KLM,167.0
+2017,1,Business,DAL-ATL,Southwest,131.5
+2017,1,Business,DAL-AUS,American Airlines,110.66666666666667
+2017,1,Business,DAL-ELP,Aeromexico,187.5
+2017,1,Business,DAL-ELP,American Airlines,95.0
+2017,1,Business,DAL-ELP,Avianca,101.0
+2017,1,Business,DAL-ELP,KLM,159.0
+2017,1,Business,DAL-ELP,Southwest,154.0
+2017,1,Business,DAL-GRR,Aeromexico,175.5
+2017,1,Business,DAL-GRR,KLM,221.0
+2017,1,Business,DAL-HOU,Southwest,61.0
+2017,1,Business,DAL-LGA,Aeromexico,61.0
+2017,1,Business,DAL-LGA,American Airlines,142.0
+2017,1,Business,DAL-MDW,Avianca,139.33333333333334
+2017,1,Business,DAL-MDW,KLM,55.0
+2017,1,Business,DAL-MDW,Southwest,180.0
+2017,1,Business,DAL-OKC,Aeromexico,121.0
+2017,1,Business,DAL-PHX,American Airlines,150.0
+2017,1,Business,DAL-PHX,Southwest,227.0
+2017,1,Business,DAL-SEA,Southwest,102.0
+2017,1,Business,DAL-SLC,KLM,217.0
+2017,1,Business,DAL-SLC,Southwest,165.0
+2017,1,Business,DAL-TUL,Avianca,151.5
+2017,1,Business,DAL-TUL,KLM,123.0
+2017,1,Economy,DAL-AMA,Aeromexico,236.0
+2017,1,Economy,DAL-AMA,American Airlines,119.0
+2017,1,Economy,DAL-AMA,KLM,191.0
+2017,1,Economy,DAL-AMA,Southwest,129.0
+2017,1,Economy,DAL-ATL,American Airlines,205.0
+2017,1,Economy,DAL-ATL,Avianca,62.0
+2017,1,Economy,DAL-ATL,Southwest,86.0
+2017,1,Economy,DAL-AUS,Avianca,172.0
+2017,1,Economy,DAL-AUS,Otra,84.0
+2017,1,Economy,DAL-AUS,Southwest,84.0
+2017,1,Economy,DAL-ELP,KLM,64.0
+2017,1,Economy,DAL-ELP,Southwest,93.0
+2017,1,Economy,DAL-GRR,American Airlines,119.0
+2017,1,Economy,DAL-GRR,Avianca,238.0
+2017,1,Economy,DAL-GRR,KLM,178.0
+2017,1,Economy,DAL-HOU,American Airlines,116.0
+2017,1,Economy,DAL-HOU,Avianca,87.0
+2017,1,Economy,DAL-HOU,KLM,131.0
+2017,1,Economy,DAL-HOU,Otra,78.0
+2017,1,Economy,DAL-LGA,Southwest,62.0
+2017,1,Economy,DAL-MDW,American Airlines,254.0
+2017,1,Economy,DAL-MDW,Southwest,109.66666666666667
+2017,1,Economy,DAL-OKC,American Airlines,104.0
+2017,1,Economy,DAL-OKC,Avianca,245.0
+2017,1,Economy,DAL-OKC,KLM,237.0
+2017,1,Economy,DAL-PHX,Aeromexico,216.0
+2017,1,Economy,DAL-PHX,KLM,164.0
+2017,1,Economy,DAL-PHX,Otra,108.25
+2017,1,Economy,DAL-SLC,KLM,152.0
+2017,1,Economy,DAL-SLC,Southwest,162.0
+2017,1,Economy,DAL-TUL,American Airlines,141.0
+2017,1,Economy,DAL-TUL,Southwest,93.0
+2017,1,First Class,DAL-AMA,Aeromexico,85.0
+2017,1,First Class,DAL-AMA,Avianca,178.0
+2017,1,First Class,DAL-AMA,KLM,82.5
+2017,1,First Class,DAL-ATL,Aeromexico,58.0
+2017,1,First Class,DAL-ATL,American Airlines,179.5
+2017,1,First Class,DAL-ATL,Southwest,237.0
+2017,1,First Class,DAL-AUS,American Airlines,255.0
+2017,1,First Class,DAL-ELP,Aeromexico,52.0
+2017,1,First Class,DAL-ELP,Southwest,176.0
+2017,1,First Class,DAL-GRR,Aeromexico,245.0
+2017,1,First Class,DAL-GRR,KLM,234.0
+2017,1,First Class,DAL-HOU,Avianca,91.5
+2017,1,First Class,DAL-HOU,Southwest,222.0
+2017,1,First Class,DAL-LGA,Aeromexico,164.0
+2017,1,First Class,DAL-MDW,Aeromexico,166.0
+2017,1,First Class,DAL-OKC,Avianca,160.0
+2017,1,First Class,DAL-PHX,Southwest,169.0
+2017,1,First Class,DAL-SLC,Avianca,137.0
+2017,1,First Class,DAL-SLC,Southwest,256.0
+2017,1,First Class,DAL-TUL,Aeromexico,55.0
+2017,1,First Class,DAL-TUL,Avianca,78.0
+2017,1,First Class,DAL-TUL,KLM,242.5
+2017,2,Business,DAL-AMA,Aeromexico,204.0
+2017,2,Business,DAL-AMA,Avianca,206.0
+2017,2,Business,DAL-AMA,KLM,121.0
+2017,2,Business,DAL-ATL,Aeromexico,201.0
+2017,2,Business,DAL-AUS,Aeromexico,122.0
+2017,2,Business,DAL-AUS,KLM,183.66666666666666
+2017,2,Business,DAL-ELP,Aeromexico,62.0
+2017,2,Business,DAL-GRR,Southwest,220.0
+2017,2,Business,DAL-HOU,American Airlines,232.0
+2017,2,Business,DAL-HOU,Southwest,169.0
+2017,2,Business,DAL-LGA,American Airlines,112.0
+2017,2,Business,DAL-LGA,Avianca,233.0
+2017,2,Business,DAL-LGA,KLM,127.0
+2017,2,Business,DAL-LGA,Southwest,142.0
+2017,2,Business,DAL-MDW,Aeromexico,206.0
+2017,2,Business,DAL-MDW,Southwest,125.0
+2017,2,Business,DAL-PHX,American Airlines,240.0
+2017,2,Business,DAL-PHX,Southwest,120.0
+2017,2,Business,DAL-SLC,Aeromexico,150.66666666666666
+2017,2,Business,DAL-SLC,American Airlines,148.33333333333334
+2017,2,Business,DAL-SLC,KLM,242.0
+2017,2,Business,DAL-SLC,Southwest,229.0
+2017,2,Business,DAL-TUL,Aeromexico,145.5
+2017,2,Economy,DAL-AMA,Aeromexico,56.0
+2017,2,Economy,DAL-ATL,Aeromexico,223.0
+2017,2,Economy,DAL-ATL,Avianca,147.0
+2017,2,Economy,DAL-ATL,KLM,55.0
+2017,2,Economy,DAL-AUS,Aeromexico,217.0
+2017,2,Economy,DAL-AUS,American Airlines,248.0
+2017,2,Economy,DAL-AUS,Southwest,167.0
+2017,2,Economy,DAL-ELP,KLM,167.0
+2017,2,Economy,DAL-GRR,Avianca,118.0
+2017,2,Economy,DAL-MDW,Avianca,182.0
+2017,2,Economy,DAL-MDW,KLM,120.0
+2017,2,Economy,DAL-OKC,Aeromexico,182.5
+2017,2,Economy,DAL-OKC,American Airlines,244.0
+2017,2,Economy,DAL-OKC,Avianca,192.5
+2017,2,Economy,DAL-PHX,Aeromexico,238.0
+2017,2,Economy,DAL-PHX,American Airlines,125.0
+2017,2,Economy,DAL-PHX,KLM,250.0
+2017,2,Economy,DAL-PHX,Southwest,109.0
+2017,2,Economy,DAL-SLC,KLM,219.0
+2017,2,Economy,DAL-TUL,Aeromexico,129.0
+2017,2,Economy,DAL-TUL,Avianca,111.5
+2017,2,Economy,DAL-TUL,Southwest,163.0
+2017,2,First Class,DAL-AMA,KLM,213.5
+2017,2,First Class,DAL-ATL,Aeromexico,81.0
+2017,2,First Class,DAL-ATL,KLM,214.0
+2017,2,First Class,DAL-ATL,Southwest,204.0
+2017,2,First Class,DAL-AUS,Aeromexico,250.0
+2017,2,First Class,DAL-AUS,Avianca,79.0
+2017,2,First Class,DAL-HOU,Southwest,62.0
+2017,2,First Class,DAL-LGA,American Airlines,242.0
+2017,2,First Class,DAL-LGA,Avianca,166.0
+2017,2,First Class,DAL-LGA,KLM,163.0
+2017,2,First Class,DAL-LGA,Southwest,71.5
+2017,2,First Class,DAL-MDW,Aeromexico,139.5
+2017,2,First Class,DAL-MDW,Avianca,75.0
+2017,2,First Class,DAL-MDW,KLM,167.0
+2017,2,First Class,DAL-OKC,American Airlines,260.0
+2017,2,First Class,DAL-OKC,Avianca,93.33333333333333
+2017,2,First Class,DAL-OKC,Southwest,143.33333333333334
+2017,2,First Class,DAL-PHX,Aeromexico,119.0
+2017,2,First Class,DAL-PHX,Avianca,247.0
+2017,2,First Class,DAL-SLC,Avianca,163.0
+2017,2,First Class,DAL-SLC,Southwest,170.5
+2017,2,First Class,DAL-TUL,Aeromexico,208.5
+2017,2,First Class,DAL-TUL,Avianca,189.0
